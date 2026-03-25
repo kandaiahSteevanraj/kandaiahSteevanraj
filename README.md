@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Steevanraj 👋
 
-<!--
-**kandaiahSteevanraj/kandaiahSteevanraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer based in London with a First Class degree in Computer 
+Science from the University of Westminster.
 
-Here are some ideas to get you started:
+I build websites and mobile apps — and I build with intention and track the impact with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I work with
+
+**Web:** WordPress · Elementor · HTML · CSS · JavaScript  
+**Mobile:** Flutter (Dart) · Kotlin (Android)  
+**Backend:** Flask (Python) · Firebase · REST APIs  
+**Design:** Figma · Adobe XD  
+**SEO & Analytics:** Yoast SEO · Microsoft Clarity · HubSpot  
+
+---
+
+### 🚀 Featured Project
+
+**[Allertox](https://github.com/kandaiahSteevanraj/Allertox)** — 
+A Flutter app that scans food barcodes and detects allergens using 
+a custom-trained ML model. Built solo end-to-end.
+
+---
+
+### 📫 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/steevanrajkandaiah) · 
+steevanrajkandaiah@gmail.com
